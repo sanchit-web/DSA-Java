@@ -1,8 +1,7 @@
-package Easy;
+
 // Problem: Move Zeroes
 // Platform: LeetCode
 // Pattern: Two Pointers
-// Difficulty: Easy
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 

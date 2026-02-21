@@ -1,4 +1,4 @@
-package Easy;
+
 // Problem: Remove Duplicates
 // Platform: LeetCode
 // Pattern: Two Pointers
