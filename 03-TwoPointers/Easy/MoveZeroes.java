@@ -1,3 +1,4 @@
+package Easy;
 // Problem: Move Zeroes
 // Platform: LeetCode
 // Pattern: Two Pointers

@@ -1,3 +1,4 @@
+package Easy;
  // Problem: Valid Palindrome
 // Platform: LeetCode
 // Pattern: Two Pointers
